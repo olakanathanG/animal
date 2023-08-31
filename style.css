@@ -1,0 +1,28 @@
+td{
+    font-size: x-large;
+}
+ol{
+    font-size: x-large;
+}
+ul{
+    font-size: x-large;
+}
+h1{
+    font-size: xx-large;
+}
+h2{
+    color: rgb(25, 0, 255);
+}
+.tab1{
+
+border-collapse: collapse;
+
+width: 1000px;
+height: 5px;
+background-color:solid white;
+background-size: 5cm;
+}
+body{
+    background-color: rgb(205, 255, 238);
+    background-size: 12px;
+}
